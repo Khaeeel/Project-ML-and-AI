@@ -1,0 +1,61 @@
+UserName,ScreenName,Location,EmailDate,EmailContent,,CleanedEmail,Label,Sentiment
+3001,userA,New York,16-03-2020,Free COVID-19 masks available! Click here to claim your package.,,free covid19 masks available click here to claim your package,SPAM,Negative
+3002,userB,London,16-03-2020,Reminder: Stay home and practice social distancing to prevent virus spread.,,reminder stay home and practice social distancing to prevent virus spread,HAM,Positive
+3003,userC,Tokyo,16-03-2020,"Urgent! Buy our miracle cure for coronavirus, limited stock available.",,urgent buy our miracle cure for coronavirus limited stock available,SPAM,Negative
+3004,userD,Manila,16-03-2020,Your employer advises all staff to work from home starting tomorrow.,,your employer advises all staff to work from home starting tomorrow,HAM,Positive
+3005,userE,Paris,16-03-2020,Congratulations! You have won free groceries during the COVID-19 lockdown.,,congratulations you have won free groceries during the covid19 lockdown,SPAM,Negative
+3006,userF,Sydney,16-03-2020,Local government announces stricter travel restrictions effective tonight.,,local government announces stricter travel restrictions effective tonight,HAM,Positive
+3007,userG,Madrid,16-03-2020,Claim your COVID-19 relief fund by sending your bank details today!,,claim your covid19 relief fund by sending your bank details today,SPAM,Negative
+3008,userH,Berlin,16-03-2020,School closure update: classes will continue online starting next week.,,school closure update classes will continue online starting next week,HAM,Positive
+3009,userI,Chicago,16-03-2020,Buy COVID insurance now! Protect your family instantly.,,buy covid insurance now protect your family instantly,SPAM,Negative
+3010,userJ,Rome,16-03-2020,Daily health tip: wash your hands for 20 seconds to reduce infection risk.,,daily health tip wash your hands for 20 seconds to reduce infection risk,HAM,Positive
+3011,userK,California,17-03-2020,Free sanitizer giveaway  just cover shipping fees of $9.99!,,free sanitizer giveaway  just cover shipping fees of 999,SPAM,Negative
+3012,userL,London,17-03-2020,Community update: grocery stores will open 1 hour early for seniors.,,community update grocery stores will open 1 hour early for seniors,HAM,Positive
+3013,userM,Seoul,17-03-2020,Get your COVID-19 results instantly by paying online here.,,get your covid19 results instantly by paying online here,SPAM,Negative
+3014,userN,Tokyo,17-03-2020,Public transport will run on limited schedules during the lockdown.,,public transport will run on limited schedules during the lockdown,HAM,Positive
+3015,userO,New York,17-03-2020,You are selected for a free COVID testing kit! Click to register now.,,you are selected for a free covid testing kit click to register now,SPAM,Negative
+3016,userP,Mumbai,17-03-2020,Reminder: wear a mask at all times in public places.,,reminder wear a mask at all times in public places,HAM,Positive
+3017,userQ,Paris,17-03-2020,Invest in coronavirus vaccine stocks now and double your money.,,invest in coronavirus vaccine stocks now and double your money,SPAM,Negative
+3018,userR,Berlin,17-03-2020,Meeting rescheduled to online format due to COVID-19 restrictions.,,meeting rescheduled to online format due to covid19 restrictions,HAM,Positive
+3019,userS,London,17-03-2020,Limited time! Buy disinfectant sprays at 80% off today only.,,limited time buy disinfectant sprays at 80 off today only,SPAM,Negative
+3020,userT,Sydney,17-03-2020,COVID-19 hotline available 24/7 for health concerns.,,covid19 hotline available 247 for health concerns,HAM,Positive
+3021,userU,Madrid,18-03-2020,"Urgent! Your package is contaminated, pay fee to disinfect it now.",,urgent your package is contaminated pay fee to disinfect it now,SPAM,Negative
+3022,userV,Manila,18-03-2020,Government launches financial aid program for affected families.,,government launches financial aid program for affected families,HAM,Positive
+3023,userW,Paris,18-03-2020,"Free vitamins to boost your immunity against COVID, claim today!",,free vitamins to boost your immunity against covid claim today,SPAM,Negative
+3024,userX,Tokyo,18-03-2020,Office will remain closed until further notice due to safety guidelines.,,office will remain closed until further notice due to safety guidelines,HAM,Positive
+3025,userY,Seoul,18-03-2020,Donate now to fight coronavirus and get free rewards in return.,,donate now to fight coronavirus and get free rewards in return,SPAM,Negative
+3026,userZ,Chicago,18-03-2020,Online classes will start next week for all students.,,online classes will start next week for all students,HAM,Positive
+3027,userAA,Berlin,18-03-2020,Claim government relief by clicking this link and entering your SSN.,,claim government relief by clicking this link and entering your ssn,SPAM,Negative
+3028,userAB,London,18-03-2020,COVID-19 update: vaccination center timings revised.,,covid19 update vaccination center timings revised,HAM,Positive
+3029,userAC,New York,18-03-2020,Double your income during lockdown with our online scheme!,,double your income during lockdown with our online scheme,SPAM,Negative
+3030,userAD,Sydney,18-03-2020,Hospitals request volunteers to donate blood urgently.,,hospitals request volunteers to donate blood urgently,HAM,Positive
+3031,userAE,Rome,19-03-2020,Get rich working from home during COVID crisis. Sign up free!,,get rich working from home during covid crisis sign up free,SPAM,Negative
+3032,userAF,Mumbai,19-03-2020,Local health department announces free testing locations.,,local health department announces free testing locations,HAM,Positive
+3033,userAG,Paris,19-03-2020,Miracle herbal cure for COVID  proven effective!,,miracle herbal cure for covid  proven effective,SPAM,Negative
+3034,userAH,Tokyo,19-03-2020,Grocery delivery service available for all quarantined residents.,,grocery delivery service available for all quarantined residents,HAM,Positive
+3035,userAI,London,19-03-2020,Win a brand-new car by participating in our COVID survey.,,win a brandnew car by participating in our covid survey,SPAM,Negative
+3036,userAJ,Seoul,19-03-2020,Reminder: avoid crowded places to prevent virus spread.,,reminder avoid crowded places to prevent virus spread,HAM,Positive
+3037,userAK,Madrid,19-03-2020,COVID-19 special lottery tickets now on sale!,,covid19 special lottery tickets now on sale,SPAM,Negative
+3038,userAL,Manila,19-03-2020,Free online counseling available for those affected by pandemic stress.,,free online counseling available for those affected by pandemic stress,HAM,Positive
+3039,userAM,Berlin,19-03-2020,Earn $500 daily with our COVID relief investment plan.,,earn 500 daily with our covid relief investment plan,SPAM,Negative
+3040,userAN,Chicago,19-03-2020,Workplace safety rules updated: masks mandatory at all times.,,workplace safety rules updated masks mandatory at all times,HAM,Positive
+3041,userAO,New York,20-03-2020,You have been chosen for free grocery vouchers during lockdown.,,you have been chosen for free grocery vouchers during lockdown,SPAM,Negative
+3042,userAP,Paris,20-03-2020,Local schools to remain closed for another two weeks.,,local schools to remain closed for another two weeks,HAM,Positive
+3043,userAQ,Tokyo,20-03-2020,Limited stock! Buy COVID vaccines privately now.,,limited stock buy covid vaccines privately now,SPAM,Negative
+3044,userAR,Sydney,20-03-2020,Supermarket introduces senior-only shopping hours in the morning.,,supermarket introduces senioronly shopping hours in the morning,HAM,Positive
+3045,userAS,London,20-03-2020,Special COVID charity raffle  donate and win cash prizes!,,special covid charity raffle  donate and win cash prizes,SPAM,Negative
+3046,userAT,Seoul,20-03-2020,Hospital announces vaccination slots now open for registration.,,hospital announces vaccination slots now open for registration,HAM,Positive
+3047,userAU,Madrid,20-03-2020,Claim instant cash relief by sharing your personal details here.,,claim instant cash relief by sharing your personal details here,SPAM,Negative
+3048,userAV,Rome,20-03-2020,Community center offers free masks for residents.,,community center offers free masks for residents,HAM,Positive
+3049,userAW,Chicago,20-03-2020,Quick wealth opportunity during COVID  enroll today!,,quick wealth opportunity during covid  enroll today,SPAM,Negative
+3050,userAX,Manila,20-03-2020,City government distributes relief goods to households this weekend.,,city government distributes relief goods to households this weekend,HAM,Positive
+3051,userAY,Berlin,21-03-2020,Free Netflix subscription during lockdown  register here!,,free netflix subscription during lockdown  register here,SPAM,Negative
+3052,userAZ,New York,21-03-2020,Vaccination reminders: please bring ID to your appointment.,,vaccination reminders please bring id to your appointment,HAM,Positive
+3053,userBA,Sydney,21-03-2020,Win millions by joining our COVID survival contest!,,win millions by joining our covid survival contest,SPAM,Negative
+3054,userBB,London,21-03-2020,"Health advisory: symptoms include fever, cough, and shortness of breath.",,health advisory symptoms include fever cough and shortness of breath,HAM,Positive
+3055,userBC,Tokyo,21-03-2020,Lockdown survival kit available now  order yours today!,,lockdown survival kit available now  order yours today,SPAM,Negative
+3056,userBD,Paris,21-03-2020,Government extends travel ban for another week.,,government extends travel ban for another week,HAM,Positive
+3057,userBE,Mumbai,21-03-2020,Free crypto giveaway during COVID! Claim your coins now.,,free crypto giveaway during covid claim your coins now,SPAM,Negative
+3058,userBF,Rome,21-03-2020,New guidelines: maintain 2 meters distance in all public places.,,new guidelines maintain 2 meters distance in all public places,HAM,Positive
+3059,userBG,Seoul,21-03-2020,Exclusive offer: buy COVID antibody kits online today.,,exclusive offer buy covid antibody kits online today,SPAM,Negative
+3060,userBH,Chicago,21-03-2020,Public transport will remain operational with safety protocols in place.,,public transport will remain operational with safety protocols in place,HAM,Positive
